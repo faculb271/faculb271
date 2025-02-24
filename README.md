@@ -16,11 +16,9 @@ Soy un estudiante de Licenciatura en Finanzas. Actualmente trabajo en [@AutoScra
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faculb271&theme=white)
 
 ### Contáctame
+---
 [LinkedIn](https://www.linkedin.com/in/facundolotobattan/)
 
 [Calendly](https://calendly.com/facundolotobattan)
 
----
-
-Explora mis repositorios y descubre mis proyectos!
 
