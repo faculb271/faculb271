@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hola, soy Facundo!
 
-<!--
-**faculb271/faculb271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi GitHub, donde comparto mis proyectos en los cuales trabajo
 
-Here are some ideas to get you started:
+### Acerca de mí
+---
+- Estudiante de Licenciatura en Finanzas.
+- Data Analyst en [@AutoScraping](https://github.com/AutoScraping).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades y Tecnologías
+---
+**Lenguajes y Herramientas:**
+- **Python:** Uso de libreria de Finanzas, Data Science & Data Analysis.
+- **Bases de Datos:** Estoy dando mis primeros pasos con PostgreSQL y MySQL.
+- **Colaboracion:** Git & GitHub para gestionar proyectos y colaborar en equipo.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faculb271&theme=white)
+
+### Contáctame
+- [LinkedIn](https://www.linkedin.com/in/facundolotobattan/)
+- [Calendly](https://calendly.com/facundolotobattan)
+
+---
+
+Explora mis repositorios y descubre mis proyectos!
+
