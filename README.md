@@ -13,7 +13,7 @@ Soy un estudiante de Licenciatura en Finanzas. Actualmente trabajo en [@AutoScra
 - **Bases de Datos:** PostgreSQL y MySQL.
 - **Colaboracion:** Git & GitHub para gestionar proyectos y colaborar en equipo.
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faculb271&hide_progress=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faculb271&hide_progress=true)
 
 
 
