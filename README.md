@@ -18,16 +18,6 @@ Bienvenido a mi GitHub, donde comparto mis proyectos en los cuales trabajo.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
 
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Excel_2019-present.svg" alt="Excel" width="50" height="50"/>
-  </a>
-
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_BI_logo_black.svg" alt="Power BI" width="50" height="50"/>
-  </a>
-
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50"/>
