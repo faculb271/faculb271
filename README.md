@@ -1,4 +1,4 @@
-## Hola, soy Facundo!
+# Hola, soy Facundo!
 
 Bienvenido a mi GitHub, donde comparto mis proyectos en los cuales trabajo. 
 
@@ -16,6 +16,6 @@ Soy un estudiante de Licenciatura en Finanzas. Actualmente trabajo en [@AutoScra
 
 
 ### Contáctame
-[LinkedIn](https://www.linkedin.com/in/facundolotobattan/)            [Calendly](https://calendly.com/facundolotobattan)
+[LinkedIn](https://www.linkedin.com/in/facundolotobattan/)
 
 
