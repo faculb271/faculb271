@@ -13,6 +13,8 @@
  - **Bases de Datos:** PostgreSQL y MySQL.
  - **Colaboracion:** Git & GitHub para gestionar proyectos y colaborar en equipo.
 
+Si quieres [contactarme](https://www.linkedin.com/in/facundolotobattan/), no dudes en hacerlo. 
+
 <details>
    <summary>Stats </summary>
    
