@@ -7,11 +7,8 @@ Bienvenido a mi GitHub, donde comparto mis proyectos en los cuales trabajo.
 🎓 Soy un estudiante de Licenciatura en Finanzas.  
 💼 Actualmente trabajo en [@AutoScraping](https://github.com/AutoScraping) como Data Analyst.  
 
-### Herramientas que utilizo
-
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,git,github&theme=light)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faculb271&langs_count=8&theme=white&layout=compact&card_width=440&hide_border=true)
 
 
 ### 📫 Contáctame
 [LinkedIn](https://www.linkedin.com/in/facundolotobattan/)
-
