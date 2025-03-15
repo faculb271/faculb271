@@ -13,9 +13,3 @@
 
 Si quieres [contactarme](https://www.linkedin.com/in/facundolotobattan/), no dudes en hacerlo. 
 
-<details>
-   <summary>Stats </summary>
-   
-   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faculb271&layout=compact&theme=default&count_private=true&hide_border=true)</a>
- </details>
-
