@@ -9,7 +9,7 @@ Bienvenido a mi GitHub, donde comparto mis proyectos en los cuales trabajo.
 
 ### Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,git,github&theme=light)](https://skillicons.dev)
 
 ### 📫 Contáctame
 [LinkedIn](https://www.linkedin.com/in/facundolotobattan/)
