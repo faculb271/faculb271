@@ -10,7 +10,7 @@ Soy un estudiante de Licenciatura en Finanzas. Actualmente trabajo en [@AutoScra
 
 **Lenguajes y Herramientas:**
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,mysql,postgres,git,github,vscode,theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,mysql,postgres,git,github,vscode&theme=light)](https://skillicons.dev)
 
 
 
