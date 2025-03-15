@@ -12,4 +12,4 @@ Bienvenido a mi GitHub, donde comparto mis proyectos en los cuales trabajo.
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,git,github)](https://skillicons.dev)
 
 ### 📫 Contáctame
-[LinkedIn](https://www.linkedin.com/in/facundolotobattan/)
+  [LinkedIn](https://www.linkedin.com/in/facundolotobattan/)
