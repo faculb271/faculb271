@@ -7,7 +7,7 @@
  Soy un estudiante de Licenciatura en Finanzas. Actualmente trabajo en [AutoScraping](https://github.com/AutoScraping) como Data Analyst.
  
  ### Lenguajes y Herramientas
- - **Python:** Uso de libreria de, Data Science, Data Analysis y Finanzas.
+ - **Python:** Uso de librerias de Data Science, Data Analysis y Finanzas.
  - **Bases de Datos:** PostgreSQL y MySQL.
  - **Colaboracion:** Git & GitHub para gestionar proyectos y colaborar en equipo.
 
