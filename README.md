@@ -4,7 +4,7 @@
  
  ### Acerca de mí
 
- Soy un estudiante de Licenciatura en Finanzas. Actualmente trabajo en [AutoScraping](https://github.com/AutoScraping) como Data Analyst.
+ Soy un estudiante de Licenciatura en Finanzas. Actualmente trabajo en [AutoScraping](https://github.com/AutoScraping) como Financial Analyst.
  
  ### Lenguajes y Herramientas
  - **Python:** Uso de librerias de Data Science, Data Analysis y Finanzas.
